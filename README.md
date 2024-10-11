@@ -11,6 +11,7 @@ This project implements a real-time data pipeline to collect, process, and analy
 This project demonstrates the integration of various modern technologies to build an end-to-end, scalable, and efficient real-time data solution.
 
 ## Architecture Diagram
+![stock_market_architecture.jpeg](stock_market_architecture.jpeg)
 
 ## Technology Used
 1. **Python**: Core programming language for data processing.
